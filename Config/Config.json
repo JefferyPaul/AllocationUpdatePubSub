@@ -1,0 +1,20 @@
+{
+	"allo_select_pub_trader": {
+	    "PublisherPath": [
+		    "C:\\D\\Platinum\\Platinum.Ultimate\\BrokerMini_Publisher\\Broker.4899@Publisher@CnCom.Id107512.1800"
+	    ],
+	    "AllocationFile": ".\\Allocation.csv"
+	},
+	"allo_update_sub_allocation":{
+	    "SubscriberPath": [
+	        "C:\\D\\Platinum\\Platinum.Ultimate\\BrokerMini_Day\\Broker.3890@Cn.Com.60B.CPA@CnCom.Id107512.1800"
+	    ],
+		"AllocationFile": ".\\Allocation.csv",
+		"MappingFile": ".\\Config\\Data\\Mapping.csv"
+	},
+	"subscribe_csv_move_zero": {
+		"SubscriberPath":[
+	        "C:\\D\\Platinum\\Platinum.Ultimate\\BrokerMini_Day\\Broker.3890@Cn.Com.60B.CPA@CnCom.Id107512.1800"
+		]
+	}
+}
